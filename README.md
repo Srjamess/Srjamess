@@ -47,8 +47,8 @@ Here are some ideas to get you started:
  <h1>Staks</h1>
  ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Srjamess&theme=highcontrast&border_radius=3.9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Srjamess&theme=prussian&border_radius=3.9)](https://git.io/streak-stats)
  
- ![Srjamess GitHub stats](https://github-readme-stats.vercel.app/api?username=Srjamess&show_icons=true&theme=highcontrast&border_radius=3.9)
+ ![Srjamess GitHub stats](https://github-readme-stats.vercel.app/api?username=Srjamess&show_icons=true&theme=prussian)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srjamess&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srjamess&layout=compact&theme=prussian)
