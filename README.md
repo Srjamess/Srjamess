@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  
  <br/>
  
- <h1>Staks</h1>
+ <h1>  📉 GitHub Stats 📉 </h1>
  ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Srjamess&theme=prussian&border_radius=3.9)](https://git.io/streak-stats)
