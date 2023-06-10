@@ -39,7 +39,16 @@ Here are some ideas to get you started:
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" whith="40" height="40" />
      <img src="https://camo.githubusercontent.com/bdceff7844d6316ebd4afb3ef39502a89bc897b84819844c7dafb867e44d07ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617a7572652d2532333030373243362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d617a7572652d6465766f7073266c6f676f436f6c6f723d7768697465" alt="">
        <img src="https://camo.githubusercontent.com/9281daa5684971fd3325661e3dd5fea86b21a902e3741a556fb636fbf0e2f3d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" alt="">
-    
-      
-  
+   
 </div>
+ 
+ <br/>
+ 
+ <h1>Staks</h1>
+ ---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Srjamess&theme=highcontrast&border_radius=3.9)](https://git.io/streak-stats)
+ 
+ ![Srjamess GitHub stats](https://github-readme-stats.vercel.app/api?username=Srjamess&show_icons=true&theme=highcontrast&border_radius=3.9)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srjamess&layout=compact&theme=highcontrast)
