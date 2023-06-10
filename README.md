@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - 🔭 I am currently working as a backend developer
+👨‍💻 I am a software developer
+<p>
+🔭 I am currently working as a backend developer and some frontend
+ <p>
+💻 Carried out studies related to the development of user interfaces and creation of interactive experiences on the web
+ 
