@@ -30,6 +30,6 @@
 Streak](http://github-readme-streak-stats.herokuapp.com?user=Srjamess&theme=prussian&border_radius=3.9)](https://git.io/streak-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srjamess&layout=compact&theme=prussian)
 
-![Srjamess's GitHubstats](https://github-readme-stats.vercel.app/api?username=Srjamess&show_icons=true&theme=transparent)
+![Srjamess's GitHub stats](https://github-readme-stats.vercel.app/api?username=srjamess&show_icons=true&theme=transparent)
 
 
