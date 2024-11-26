@@ -9,7 +9,6 @@
         <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/postgres%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
         <img
             src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" />
         <img
